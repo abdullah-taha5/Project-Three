@@ -1,0 +1,87 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+      "timings": {
+        "Fajr": "04:10",
+        "Sunrise": "05:38",
+        "Dhuhr": "11:57",
+        "Asr": "15:30",
+        "Sunset": "18:17",
+        "Maghrib": "18:17",
+        "Isha": "19:47",
+        "Imsak": "04:00",
+        "Midnight": "23:58"
+      },
+      "date": {
+        "readable": "06 Apr 2021",
+        "timestamp": "1617673815",
+        "hijri": {
+          "date": "23-08-1442",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 8,
+            "en": "Shaʿbān",
+            "ar": "شَعْبان"
+          },
+          "year": "1442",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": [
+            
+          ]
+        },
+        "gregorian": {
+          "date": "06-04-2021",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 4,
+            "en": "April"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        }
+      },
+      "meta": {
+        "latitude": 30.0444196,
+        "longitude": 31.2357116,
+        "timezone": "Africa/Cairo",
+        "method": {
+          "id": 8,
+          "name": "Gulf Region",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": "90 min"
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  }
